@@ -1,4 +1,4 @@
-# Joint Entity-Relation Extraction using Transformers 🌌
+# Joint Entity-Relation Extraction using Transformers 
 
 ### 📝 Project Description & Objective
 This project implements a multi-task learning architecture designed to extract entities (NER) and their semantic relations (RE) simultaneously from raw text. By moving away from traditional sequential pipeline methods, this joint extraction approach optimizes context sharing and completely eliminates the error propagation problem.
